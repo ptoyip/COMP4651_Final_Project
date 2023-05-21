@@ -20,4 +20,3 @@ Data path `data/train.csv` refers to [Kagge Competition](https://www.kaggle.com/
 
 Please see the result inside the nodebook
 **For Dataframe, please comment out the unwanted data path, for RDD, it first evalutate Kaggle Dataset, then Kaggle Competition**
-
